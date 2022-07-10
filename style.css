@@ -1,0 +1,33 @@
+body{
+    display: grid;
+    place-items: center;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bodywrap{
+    background-color: black;
+}
+
+.content{
+    display: grid;
+    place-items: center;
+    font-size: 2rem;
+}
+
+uL{
+    list-style-type: none;
+}
+
+li{
+    margin: 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: royalblue;
+}
