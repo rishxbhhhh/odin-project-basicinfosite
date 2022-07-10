@@ -1,0 +1,15 @@
+{
+  "name": "odin-project-basicinfosite",
+  "version": "1.0.0",
+  "description": "basic node js static  file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "odin-project-basicinfosite"
+  },
+  "author": "Rishabh Rajpurohit",
+  "license": "ISC"
+}
